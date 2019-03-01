@@ -1,4 +1,5 @@
 ## Actividad 2 Introduccion a eventos con button.
+Editado por Doxael Avila el 01/03/2019
 
 Button es un componente de Android que realizar accione al hacer click en el. 
 
